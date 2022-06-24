@@ -1,0 +1,109 @@
+nav, footer {
+    background-color: #C6D8E5;
+}
+
+.nav-item:hover {
+    background-color: #9DB4C4;
+}
+
+.home-container {
+    position: relative;
+}
+
+.home-welcome {
+    position: absolute;
+    top: 10%;
+    left: 35%;
+    color: #646D7E;
+    width: 40%;
+}
+
+#welc {
+    font-family: Marker Felt, fantasy;
+}
+
+footer {
+    text-align: center;
+}
+
+#footer {
+        padding: 3px;
+}
+
+.card {
+    width: 100%;
+    height: 45rem;
+    left: 1.5%;
+    top: 2%;
+    bottom: 2%;
+    background-color: #EDEDED;
+}
+
+.card:hover {
+    background-color: #D7EBFF;
+}
+
+.btn-primary {
+    position: absolute;
+    bottom: 5%;
+}
+
+hr {
+    border: 0.1rem solid
+}
+
+body {
+    background-color: #FCFEFF;
+}
+
+th, td {
+  padding: 4px;
+  border: 1px solid;
+}
+
+  input[type=text], select, textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    resize: vertical
+  }
+
+  #bann {
+       position: absolute;
+       top: 20;
+       left: 0;
+       background-color: #037ffc;
+       width: 100%;
+     }
+
+  #bann-cont {
+      width: 800px;
+      margin: 0 auto;
+      padding: 5px;
+      text-align: center;
+    }
+
+  input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+
+  .container {
+    padding: 16px;
+  }
+
+  #login {
+    background-color: #037ffc;
+  }
+
+  #contact-us {
+    text-align: center;
+    font-family: Marker Felt, fantasy;
+  }
